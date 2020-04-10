@@ -3,21 +3,33 @@
 ![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1") 
 
 
-## Game Instructions
+
+Pseudocode / Game Instructions
+
+
+-have a 3 by 3 grid 
+
+
+-X is player one and O is the computer
+
+
+-make functions that make each of the nine boxes from the 3 by 3 grid to click using button method
+
+
+-dislplay outcome of match when match is ended. 
+
+
 - press play
+
+
 - click one of the nine boxes in the 3 by 3 grid
-- if you get three in a row mathcing then you win the game
-- if the other player gets three in a row matching then you lose
+
+
+- if you get three in a row in any direction(diagonally/horizontallu/vertically) matching then you win the game
+
+
 - if no player matches three in a row then it no one wins and it is a draw
 
 
 
-1. Pseudocode 
--have a 3 by 3 grid 
-
--X is player one and O is the computer
-
--make functions that make each of the nine boxes from the 3 by 3 grid to click using button method
-
--dislplay outcome of match when match is ended. 
 
