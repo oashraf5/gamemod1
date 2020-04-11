@@ -8,3 +8,9 @@ const winningConditions = [
     [0, 4, 8],
     [2, 4, 6]
 ];
+
+
+let board;
+let turn = 'X';
+let win;
+
