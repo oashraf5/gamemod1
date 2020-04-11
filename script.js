@@ -51,5 +51,5 @@ function handleResultValidation() {
     handlePlayerChange();
 }
   
- 
+  
  
