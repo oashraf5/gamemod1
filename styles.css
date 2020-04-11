@@ -13,3 +13,14 @@ section {
     margin: 100px auto;
 }
  
+.cell {
+  font-family: "Permanent Marker", cursive;
+  width: 350px;
+  height: 180px;
+  box-shadow: 1px;
+  border: 2px;
+  cursor: pointer;
+
+  line-height: 200px;
+  font-size: 60px;
+}
