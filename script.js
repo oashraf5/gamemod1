@@ -15,7 +15,7 @@ let turn = 'X';
 let win;
 
 function handlePlayerChange() {
-    currentPlayer = currentPlayer === "X" ? "O" : "X";
+    currentPlayer = currentPlayer === "X" ? "O" : "X"; 
     statusDisplay.innerHTML = currentPlayerTurn();
 }
 
