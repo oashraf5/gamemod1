@@ -15,7 +15,7 @@ Pseudocode / Game Instructions
 
 -make functions that make each of the nine boxes from the 3 by 3 grid to click using button method
 
-
+ 
 -dislplay outcome of match when match is ended. 
 
 
