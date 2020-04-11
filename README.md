@@ -28,7 +28,7 @@ Pseudocode / Game Instructions
 - if you get three in a row in any direction(diagonally/horizontallu/vertically) matching then you win the game
 
 
-- if no player matches three in a row then it no one wins and it is a draw
+- if no player matches three in a row then it no one wins and it is a draw 
 
 
 
